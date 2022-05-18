@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chao07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chao07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chao07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chao07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chao07&theme=default&utcOffset=8)
